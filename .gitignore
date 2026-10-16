@@ -1,0 +1,29 @@
+# Keil build outputs
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.iex
+*.log
+*.Bak
+*.bak
+*.lock
+
+# Local IDE and debugger settings
+.vscode/
+*.uvguix.*
+*.uvoptx
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
